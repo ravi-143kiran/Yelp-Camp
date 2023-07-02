@@ -2,7 +2,7 @@
 
 # **YelpCamp**
 
-![Alternate Text](/Employee%20Management%20System/Login.png "Login Page")
+![Alternate Text](/Employee%20Management%20System/HomePage.png "Login Page")
 
 
 YelpCamp is a website where users can create and review campgrounds. In order to review or create a campground, you must have an account. This project was part of Colt Steele's web dev course on udemy.
