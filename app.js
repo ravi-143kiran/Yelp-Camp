@@ -41,7 +41,7 @@ db.once("open", () => {
     console.log("Database connected");
 });
 
-const app = express(); gittt
+const app = express(); 
 
 app.engine('ejs', ejsMate);
 app.set('view engine', 'ejs');
