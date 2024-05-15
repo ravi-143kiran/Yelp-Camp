@@ -35,8 +35,9 @@ API_SECRET='<secret>'**
 ````
 Run **mongod** in another terminal and **node app.js** in the terminal with the project.
 
+# **License**
 
-Then go to [localhost:3000](http://localhost:3000/ "Optional Title")
+This project is licensed under the **[MIT License](https://opensource.org/license/mit/ "Optional Title")**.
 
 
 
